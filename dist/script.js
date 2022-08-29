@@ -1,0 +1,2 @@
+"use strict";const testString="Javascript test!";console.log(testString);const fruits=["😀","✨","💀"];fruits.map((t=>{console.log(t)}));const btn=document.getElementById("btn-share"),shareBox=document.getElementById("share-box"),shareManagement=()=>{btn.addEventListener("click",(function(){shareBox.classList.toggle("show-box")}))};btn.addEventListener("click",(function(){shareBox.classList.toggle("show-box")}));
+//# sourceMappingURL=script.js.map
